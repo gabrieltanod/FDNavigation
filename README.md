@@ -31,10 +31,6 @@ An offline-first event navigation app prototype built for Female Daily, designed
 
 To simplify indoor navigation for beauty event visitors and improve brand discoverability — all while working fully offline.
 
-## 📸 Screenshots
-
-> _(Add screenshots here if you have them)_
-
 ## 🚀 Future Plans
 
 - Visitor flow analytics (anonymized)
